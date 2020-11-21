@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>David Torres Segundo</title>
-    <link>https://dtorresCode.github.io/</link>
-    <description>Recent content on David Torres Segundo</description>
+    <title>AngularJS on David Torres Segundo</title>
+    <link>https://dtorresCode.github.io/tags/angularjs/</link>
+    <description>Recent content in AngularJS on David Torres Segundo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sat, 21 Nov 2020 15:16:58 -0600</lastBuildDate>
     
-	<atom:link href="https://dtorresCode.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dtorresCode.github.io/tags/angularjs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

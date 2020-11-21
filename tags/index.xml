@@ -7,9 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 21 Nov 2020 15:16:58 -0600</lastBuildDate>
     
 	<atom:link href="https://dtorresCode.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AngularJS</title>
+      <link>https://dtorresCode.github.io/tags/angularjs/</link>
+      <pubDate>Sat, 21 Nov 2020 15:16:58 -0600</pubDate>
+      
+      <guid>https://dtorresCode.github.io/tags/angularjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desarrollo</title>
+      <link>https://dtorresCode.github.io/tags/desarrollo/</link>
+      <pubDate>Sat, 21 Nov 2020 15:16:58 -0600</pubDate>
+      
+      <guid>https://dtorresCode.github.io/tags/desarrollo/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
